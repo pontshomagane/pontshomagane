@@ -1,3 +1,10 @@
+<!-- 
+GitHub Stats Cache Refresh:
+- Stats are cached for 24 hours (cache_seconds=86400)
+- GitHub Actions workflow runs daily to refresh cache
+- To manually refresh: add &v=random_number to any stats URL
+-->
+
 <h1 align="center">Hi 👋, I'm Pontsho Magane</h1>
 <h3 align="center">A passionate Full-Stack Developer/Engineer from South Africa(Cape Town)</h3>
 
@@ -5,7 +12,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pontshomagane&label=Profile%20views&color=0e75b6&style=flat" alt="pontshomagane" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pontshomagane&label=Profile%20views&color=0e75b6&style=flat&cache_seconds=86400" alt="pontshomagane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pontshomagane" alt="pontshomagane" /></a> </p>
 
@@ -46,8 +53,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/maganepontsho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="maganepontsho" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pontshomagane&show_icons=true&locale=en&layout=compact" alt="pontshomagane" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pontshomagane&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="pontshomagane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pontshomagane&show_icons=true&locale=en" alt="pontshomagane" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pontshomagane&show_icons=true&locale=en&cache_seconds=86400" alt="pontshomagane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pontshomagane&" alt="pontshomagane" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pontshomagane&cache_seconds=86400" alt="pontshomagane" /></p>
