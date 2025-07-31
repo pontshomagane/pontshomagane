@@ -26,7 +26,7 @@ GitHub Stats Cache Refresh:
 
 - 🤝 I'm looking for help with **Therapists On Wheels**
 
-- 👨‍💻 All of my projects are available at [pontshomagane03.netlify.app](pontshomagane03.netlify.app)
+- 👨‍💻 All of my projects are available at [pontshomagane03.netlify.app](https://pontshomagane03.netlify.app)
 
 - 💬 Ask me about **react, python, java, javascript, C programming, pipeline(CI/CD)**
 
